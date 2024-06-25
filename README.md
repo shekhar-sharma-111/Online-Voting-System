@@ -5,7 +5,7 @@ The Online Voting System is a web application built using the MERN stack (MongoD
 -------------------------------------------------------------------------------------
 
 1.Features
-
+-------------------------------------------------------------------------------------
 
 User Authentication: Secure login and registration system using JWT (JSON Web Tokens).
 
@@ -21,7 +21,7 @@ Responsive Design: Fully responsive design to ensure usability on all devices.
 
 -------------------------------------------------------------------------------------
 2. Technologies Used
-
+------------------------------------------------------------------------------------
 
 Frontend:
 
@@ -45,7 +45,7 @@ Mongoose
 
 ----------------------------------------------------------------------
 3. Other Tools:
-
+---------------------------------------------------------------------
 
 1.JWT for authentication
 
@@ -57,7 +57,7 @@ Mongoose
 
 -----------------------------------------------------------------------
 4. Installation
-
+----------------------------------------------------------------------
 Prerequisites
 
 
@@ -67,7 +67,7 @@ MongoDB installed and running
 ------------------------------------------------------------------------
 
 5. Set up environment variables:
-
+-----------------------------------------------------------------------
 
 Create a .env file in the backend directory with the following variables:
 
