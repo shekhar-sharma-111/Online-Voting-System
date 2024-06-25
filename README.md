@@ -1,9 +1,11 @@
 # Online-Voting-System
 Overview
+
 The Online Voting System is a web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). This platform provides a secure and efficient way to conduct elections online, allowing users to vote in various elections while ensuring the integrity and confidentiality of their votes.
 
 
-Features
+1.Features
+
 
 User Authentication: Secure login and registration system using JWT (JSON Web Tokens).
 
@@ -17,9 +19,11 @@ Audit Trail: Maintain a log of all activities for transparency and auditing purp
 
 Responsive Design: Fully responsive design to ensure usability on all devices.
 
-Technologies Used
+2. Technologies Used
+
 
 Frontend:
+
 React
 
 React Bootstrap
@@ -28,6 +32,8 @@ React Router
 
 
 Backend:
+
+
 Node.js
 
 Express.js
@@ -37,7 +43,8 @@ MongoDB
 Mongoose
 
 
-Other Tools:
+3. Other Tools:
+
 
 1.JWT for authentication
 
@@ -48,16 +55,18 @@ Other Tools:
 4.Chart.js for data visualization
 
 
-Installation
+4. Installation
 
 Prerequisites
+
 
 Node.js and npm installed
 
 MongoDB installed and running
 
 
-Set up environment variables:
+5. Set up environment variables:
+
 
 Create a .env file in the backend directory with the following variables:
 
