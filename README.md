@@ -13,7 +13,7 @@ Technologies Used
 Frontend:
 
 React
-React Boostrap
+React Bootstrap
 React Router
 Backend:
 
