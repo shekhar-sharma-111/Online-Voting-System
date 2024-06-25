@@ -31,3 +31,13 @@ Installation
 Prerequisites
 Node.js and npm installed
 MongoDB installed and running
+
+Set up environment variables:
+Create a .env file in the backend directory with the following variables:
+
+env
+Copy code
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_jwt_secret
+EMAIL_USER=your_email_address
+EMAIL_PASS=your_email_password
