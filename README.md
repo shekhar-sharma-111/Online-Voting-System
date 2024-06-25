@@ -79,21 +79,37 @@ JWT_SECRET=your_jwt_secret
 EMAIL_USER=your_email_address
 
 EMAIL_PASS=your_email_password
+
 -------------------------------------------------------------------------
+
 online-voting-system/
+
 ├── backend/         # Node.js & Express backend 
+
 │   ├── controllers/ # Controllers for handling requests 
+
 │   ├── models/      # Mongoose models 
+
 │   ├── routes/      # API routes
+
 │   ├── middleware/  # Authentication and other middleware 
+
 │   └── server.js    # Entry point for the backend server 
+
 ├── frontend/        # React frontend 
+
 │   ├── src/
+
 │   │   ├── components/ # Reusable components 
+
 │   │   ├── pages/      # Page components 
+
 │   │   ├── App.js      # Main App component 
+
 │   │   └── index.js    # Entry point for the frontend 
+
 └── README.md        # This file 
+
 -------------------------------------------------------------------------
 
 
