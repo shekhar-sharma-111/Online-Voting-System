@@ -10,23 +10,24 @@ Real-time Results: Live display of election results with data visualizations.
 Audit Trail: Maintain a log of all activities for transparency and auditing purposes.
 Responsive Design: Fully responsive design to ensure usability on all devices.
 Technologies Used
-Frontend:
 
+Frontend:
 React
 React Bootstrap
 React Router
-Backend:
 
+Backend:
 Node.js
 Express.js
 MongoDB
 Mongoose
-Other Tools:
 
-JWT for authentication
-Bcrypt for password hashing
-Nodemailer for email notifications
-Chart.js for data visualization
+Other Tools:
+1.JWT for authentication
+2.Bcrypt for password hashing
+3.Nodemailer for email notifications
+4.Chart.js for data visualization
+
 Installation
 Prerequisites
 Node.js and npm installed
