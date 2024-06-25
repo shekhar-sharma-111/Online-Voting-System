@@ -2,6 +2,16 @@
 Overview
 
 The Online Voting System is a web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). This platform provides a secure and efficient way to conduct elections online, allowing users to vote in various elections while ensuring the integrity and confidentiality of their votes.
+
+#Screenshots:
+HOME PAGE:![Screenshot](https://github.com/shekhar-sharma-111/Online-Voting-System/assets/139949866/242d6058-a2ba-425c-9b66-278d51997eaa)
+
+USER PROFILE:![Screenshot](https://github.com/shekhar-sharma-111/Online-Voting-System/assets/139949866/2bfa3863-58ae-464f-9f75-9034c8d12efc)
+
+ADMIN PAGE:
+![Screenshot](https://github.com/shekhar-sharma-111/Online-Voting-System/assets/139949866/135fb661-3a4f-4cb6-9128-71f31bd9ac53)
+
+
 -------------------------------------------------------------------------------------
 
 1.Features
