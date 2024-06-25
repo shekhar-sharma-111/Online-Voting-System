@@ -89,9 +89,29 @@ JWT_SECRET=your_jwt_secret
 EMAIL_USER=your_email_address
 
 EMAIL_PASS=your_email_password
+-------------------------------------------------------------------------
+Usage
+
+Admin
+
+Login as an admin.
+
+Create and manage elections, add candidates, and manage voters.
+
+Monitor live results and declare winners.
+
+Voter
+
+Register and login to the platform.
+
+View ongoing elections and cast your vote.
+
+View your voting history and election results.
+
 
 -------------------------------------------------------------------------
-
+Project Structure
+-------------------------------------------------------------------------
 online-voting-system/
 
 ├── backend/         # Node.js & Express backend 
