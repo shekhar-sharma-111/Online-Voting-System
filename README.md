@@ -2,7 +2,7 @@
 Overview
 
 The Online Voting System is a web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). This platform provides a secure and efficient way to conduct elections online, allowing users to vote in various elections while ensuring the integrity and confidentiality of their votes.
-
+-------------------------------------------------------------------------------------
 
 1.Features
 
@@ -19,6 +19,7 @@ Audit Trail: Maintain a log of all activities for transparency and auditing purp
 
 Responsive Design: Fully responsive design to ensure usability on all devices.
 
+-------------------------------------------------------------------------------------
 2. Technologies Used
 
 
@@ -42,7 +43,7 @@ MongoDB
 
 Mongoose
 
-
+----------------------------------------------------------------------
 3. Other Tools:
 
 
@@ -54,7 +55,7 @@ Mongoose
 
 4.Chart.js for data visualization
 
-
+-----------------------------------------------------------------------
 4. Installation
 
 Prerequisites
@@ -63,7 +64,7 @@ Prerequisites
 Node.js and npm installed
 
 MongoDB installed and running
-
+------------------------------------------------------------------------
 
 5. Set up environment variables:
 
@@ -78,4 +79,21 @@ JWT_SECRET=your_jwt_secret
 EMAIL_USER=your_email_address
 
 EMAIL_PASS=your_email_password
+-------------------------------------------------------------------------
+online-voting-system/
+├── backend/         # Node.js & Express backend 
+│   ├── controllers/ # Controllers for handling requests 
+│   ├── models/      # Mongoose models 
+│   ├── routes/      # API routes
+│   ├── middleware/  # Authentication and other middleware 
+│   └── server.js    # Entry point for the backend server 
+├── frontend/        # React frontend 
+│   ├── src/
+│   │   ├── components/ # Reusable components 
+│   │   ├── pages/      # Page components 
+│   │   ├── App.js      # Main App component 
+│   │   └── index.js    # Entry point for the frontend 
+└── README.md        # This file 
+-------------------------------------------------------------------------
+
 
