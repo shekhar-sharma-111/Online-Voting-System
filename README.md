@@ -65,6 +65,10 @@ Mongoose
 
 4.Chart.js for data visualization
 
+5.Multer for image uploading and storing
+
+6.Formik for form validation 
+
 -----------------------------------------------------------------------
 4. Installation
 ----------------------------------------------------------------------
