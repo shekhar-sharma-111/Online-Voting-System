@@ -93,6 +93,7 @@ JWT_SECRET=your_jwt_secret
 EMAIL_USER=your_email_address
 
 EMAIL_PASS=your_email_password
+
 -------------------------------------------------------------------------
 Usage
 
